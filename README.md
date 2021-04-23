@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subhasish11
+- 👋 Hi, I’m Subhasish Mishra
 - 👀 I’m interested in React and Redux
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me subhasish@trustcheckr.com
