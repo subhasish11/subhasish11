@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subhasish Mishra
 - 👀 I’m interested in React and Redux
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Node JS, Next JS, React Native
 - 📫 How to reach me subhasish@trustcheckr.com
 
 <!---
